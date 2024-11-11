@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\10zad\10zad\bin\Debug\net8.0\10zad.exe
+C:\Users\thesh\source\repos\10zad\10zad\bin\Debug\net8.0\10zad.deps.json
+C:\Users\thesh\source\repos\10zad\10zad\bin\Debug\net8.0\10zad.runtimeconfig.json
+C:\Users\thesh\source\repos\10zad\10zad\bin\Debug\net8.0\10zad.dll
+C:\Users\thesh\source\repos\10zad\10zad\bin\Debug\net8.0\10zad.pdb
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\10zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\10zad.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\10zad.AssemblyInfo.cs
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\10zad.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\10zad.dll
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\refint\10zad.dll
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\10zad.pdb
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\10zad.genruntimeconfig.cache
+C:\Users\thesh\source\repos\10zad\10zad\obj\Debug\net8.0\ref\10zad.dll

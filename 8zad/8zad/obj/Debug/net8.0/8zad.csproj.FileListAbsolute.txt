@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\8zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\8zad.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\8zad.AssemblyInfo.cs
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\8zad.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\8zad\8zad\bin\Debug\net8.0\8zad.exe
+C:\Users\thesh\source\repos\8zad\8zad\bin\Debug\net8.0\8zad.deps.json
+C:\Users\thesh\source\repos\8zad\8zad\bin\Debug\net8.0\8zad.runtimeconfig.json
+C:\Users\thesh\source\repos\8zad\8zad\bin\Debug\net8.0\8zad.dll
+C:\Users\thesh\source\repos\8zad\8zad\bin\Debug\net8.0\8zad.pdb
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\8zad.dll
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\refint\8zad.dll
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\8zad.pdb
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\8zad.genruntimeconfig.cache
+C:\Users\thesh\source\repos\8zad\8zad\obj\Debug\net8.0\ref\8zad.dll

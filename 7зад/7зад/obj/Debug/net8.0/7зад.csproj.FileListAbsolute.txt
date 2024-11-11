@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\7зад\7зад\bin\Debug\net8.0\7зад.exe
+C:\Users\thesh\source\repos\7зад\7зад\bin\Debug\net8.0\7зад.deps.json
+C:\Users\thesh\source\repos\7зад\7зад\bin\Debug\net8.0\7зад.runtimeconfig.json
+C:\Users\thesh\source\repos\7зад\7зад\bin\Debug\net8.0\7зад.dll
+C:\Users\thesh\source\repos\7зад\7зад\bin\Debug\net8.0\7зад.pdb
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\7зад.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\7зад.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\7зад.AssemblyInfo.cs
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\7зад.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\7зад.dll
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\refint\7зад.dll
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\7зад.pdb
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\7зад.genruntimeconfig.cache
+C:\Users\thesh\source\repos\7зад\7зад\obj\Debug\net8.0\ref\7зад.dll
