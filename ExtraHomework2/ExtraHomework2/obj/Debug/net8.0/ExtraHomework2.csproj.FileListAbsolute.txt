@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\bin\Debug\net8.0\ExtraHomework2.exe
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\bin\Debug\net8.0\ExtraHomework2.deps.json
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\bin\Debug\net8.0\ExtraHomework2.runtimeconfig.json
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\bin\Debug\net8.0\ExtraHomework2.dll
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\bin\Debug\net8.0\ExtraHomework2.pdb
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ExtraHomework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ExtraHomework2.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ExtraHomework2.AssemblyInfo.cs
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ExtraHomework2.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ExtraHomework2.dll
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\refint\ExtraHomework2.dll
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ExtraHomework2.pdb
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ExtraHomework2.genruntimeconfig.cache
+C:\Users\thesh\source\repos\ExtraHomework2\ExtraHomework2\obj\Debug\net8.0\ref\ExtraHomework2.dll
